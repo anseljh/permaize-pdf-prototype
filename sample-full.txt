@@ -1,0 +1,2017 @@
+Pirates Versus Mercenaries:  
+
+Purely Private Transnational Violence at the Margins of International Law 
+
+Ansel Halliburton 
+
+J.D. Candidate, 2011, UC Davis School of Law 
+
+ 
+
+ 
+
+Over the last decade, as American and international forces confronted a panoply of 
+
+asymmetric threats from terrorist and insurgent groups, a consensus solidified around the idea 
+
+that states could legitimately use force against certain kinds of violent non-state actors. This 
+
+paper explores the related but quite different question of the legality and legitimacy of non-state 
+
+actors using force against other non-state actors, using as examples the relatively recent increases 
+
+in maritime piracy on the one hand, and in the use of private military companies (PMCs) on the 
+
+other. 
+
+Of course, neither pirates nor mercenaries are new phenomena. In fact, both of these 
+
+kinds of violent non-state actors appear regularly throughout both ancient and modern world 
+
+history. Much as today’s pirates threaten global shipping routes, the Roman Republic—then the 
+
+Western world’s superpower—faced pirates who threatened its food supply. Ultimately, the 
+
+Republic sent its great general Pompey to put an end to the threat.1 Similarly, mercenaries fought 
+
+for the Egyptian Pharaoh in the thirteenth century B.C.E., Greek city-states, the Roman 
+
+Republic, and the empires of both Rome and Byzantium, as well as for the British in the 
+
+American Revolution. The feudal system, which obliged subjects of the sovereign to engage in 
+
+                                                 
+1 A.T. Whatley, Historical Sketch of the Law of Piracy, 3 LAW MAG. & REV. 536, 538 (1874); 
+Plutarch, Pompey, in 5 PLUTARCH’S LIVES 117, 173–85 (Bernadotte Perrin trans., G.P. Putnam’s 
+Sons 1917). 
+
+ 
+
+1 
+
+military service, reduced the use of mercenaries somewhat during the Middle Ages.2 The 
+
+Hanseatic League, an quasi-public alliance of Northern-European merchants, formed in part to 
+
+protect maritime trade from Baltic pirates. Some of the League’s earliest legislation set up 
+
+incentives for private attacks on pirates.3 Both piracy and the use of mercenaries decreased 
+
+dramatically during much the 20th century, but surged with the decline of superpower patronage 
+
+after the end of the Cold War. 
+
+This paper posits the questions of how international law would, and should, react to purely 
+
+private transnational violence. It uses a hypothetical offensive by a private military company 
+
+against Somali pirates to both illustrate the relevance of these questions and to help flesh out 
+
+their particulars. 
+
+I.  Factual Background on Piracy off the Coast of Somalia 
+
+ 
+
+Somalia has been without a capable government for 19 years, since the collapse of the 
+
+Siad Barre regime in 1991.4 The United Nations-backed Transitional Federal Government 
+
+(“TFG”), although officially recognized by many states, is largely impotent beyond those 
+
+portions of the capital city over which it manages to maintain control. The semi-autonomous 
+
+regional quasi-states of Somaliland and Puntland also exist, print their own currency, and 
+
+maintain their own foreign relations apart from the TFG.5 Although the data are poor, there is 
+
+little doubt that Somalia’s economy is extremely weak, primarily due to the terrible security 
+
+situation. 
+
+                                                 
+2 P.W. SINGER, CORPORATE WARRIORS, 20–21 (Cornell U. Press 2003). 
+3 Whatley, supra note 1, at 541; Ernst Daenell, The Policy of the German Hanseatic League 
+Respecting the Mercantile Marine, 15 AM. HIST. REV. 47 (Oct. 1909), available at 
+http://www.jstor.org/stable/1835424. 
+4 Somalia, CIA WORLD FACTBOOK, Introduction, https://www.cia.gov/library/publications/the-
+world-factbook/geos/so.html (last visited March 3, 2010). 
+5 Somalia Country Report, ECONOMIST INTELLIGENCE UNIT, February 2010, at 5, 8–9. 
+
+ 
+
+2 
+
+One need not go far to find headlines about hijackings off the coast of Somalia. Stories in 
+
+the press give a lurid picture of a new scourge upon the sea. However, it is important to 
+
+understand the scale of piracy compared to the total volume of shipping in the area. Of 21,000 
+
+ships transiting the Gulf of Aden, 0.6% were attacked, and just 0.2% were boarded by pirates.6 
+
+Somali piracy is no doubt a serious problem, but international commerce is at no risk of grinding 
+
+to a halt. 
+
+A.  The Human Cost of Somali Piracy 
+
+Data from the International Maritime Organization (IMO), although incomplete because 
+
+submissions are voluntary, gives a partial picture of Somali piracy’s human impact. In 134 
+
+reported attacks in waters off East Africa in 2008, 44 ships were hijacked, one crew member was 
+
+killed, two were wounded, 8 crew members were missing, and 703 crew members were taken 
+
+hostage.7 Although the figure of 700 hostages is stunning, the low number of injuries and deaths 
+
+takes away much of the force of popular reporting on the scale of the threat. 
+
+The human cost of contemporary Somali piracy is also slight in comparative and 
+
+historical terms. Just after its founding, the United States faced a far more serious and sadistic 
+
+threat from the Barbary Corsairs, who frequently tortured, enslaved, or killed captured sailors.8 
+
+Contemporary piracy in the South China Sea is far more violent than that off the coast of 
+
+Somalia: in 2008, 4 crew were killed, 10 were wounded, and 30 went missing in the South China 
+
+                                                 
+6 Raymond Gilpin, Counting the Costs of Somali Piracy 12 (U.S. Inst. Peace, Working Paper, 
+2009), available at http://www.usip.org/resources/counting-the-costs-somali-piracy. 
+7 IMO, Reports on Acts of Piracy and Armed Robbery Against Ships, Annual Report, 2008, 
+Annex 2, MSC.4/Circ.133 (Mar. 19, 2009), available at 
+http://www.imo.org/includes/blastData.asp/doc_id=11376/133.pdf [hereinafter IMO 2008 
+Annual Report] 
+8 Brief of Lawrence M. Friedman, et al., as Amici Curiae in Support of Petitioner at 9, Hamdan 
+v. Rumsfeld, 2006 WL 53971 (U.S. Jan. 6, 2006) (No. 05-184) [hereinafter Hamdan Amicus 
+Brief]. 
+
+ 
+
+3 
+
+Sea as a result of 62 reported incidents; of 84 reported incidents in East Africa and the Indian 
+
+Ocean, however, one crewmember was killed, 2 were wounded, and 8 went missing.9 
+
+B.  The Economic Costs of Somali Piracy 
+
+Despite its relatively small human impact, piracy exacts a significant economic toll. The 
+
+economic cost of piracy can be divided into the following categories: ransom payments, 
+
+increased insurance premiums, indirect economic costs, the cost of deploying naval forces to the 
+
+area, and, in a more recent trend, the cost of providing armed security teams aboard ships. 
+
+i.  Ransoms 
+
+ 
+
+Because insurers and shippers typically do not disclose the amounts of ransom payments, 
+
+or even the fact of their payment, it is only possible to give rough estimates. The most widely-
+
+cited estimates of aggregate ransom payments to Somali pirates are $60–80 million in 2008 and 
+
+$150 million in 2009.10 The available evidence tends to indicate a trend toward more 
+
+sophisticated operations resulting in seizures of larger, more valuable ships, with larger ransom 
+
+demands and payments per ship. 
+
+ii.  Avoidance 
+
+Most of the ships attacked by Somali pirates are commercial shipping vessels sailing 
+
+between continents. The only way to assure avoiding piracy in the Gulf of Aden and Indian 
+
+Ocean is to avoid those areas entirely—usually by re-routing ships around the Cape of Good 
+
+Hope instead of through the Suez Canal. The U.S. Department of Transportation’s Maritime 
+
+Administration estimates that diverting one tanker’s normal route between Saudi Arabia and the 
+
+                                                 
+9 IMO 2008 Annual Report, supra note 7, at 15. 
+10 Donors pledge over $250 million for Somalia, USA TODAY, Apr. 23, 2009, 
+http://www.usatoday.com/news/washington/2009-04-23-somalia-donors_N.htm; Q&A: Somali 
+piracy, BBC NEWS,  Nov. 2, 2009, http://news.bbc.co.uk/2/hi/africa/7734985.stm. 
+
+ 
+
+4 
+
+United States around the Cape of Good Hope would add $3.5 million per year in additional fuel 
+
+costs while cutting its delivery capacity by 26%.11 
+
+iii.  Insurance 
+
+In 2008 alone, the cost of additional war-risk insurance for a ship’s passage through the 
+
+Gulf of Aden rose from $500 to $20,000 per trip. Applied to the 21,000 ships transiting the Gulf 
+
+annually, the total annual cost to insure these ships could be as high as $400 million.12 To the 
+
+extent this represents a new revenue source for insurers and is greater than their overall payouts, 
+
+insurers may prefer the status quo to stronger anti-piracy measures. One would therefore expect 
+
+demands for stronger protection to come from the shippers themselves, as has mostly been the 
+
+case. 
+
+iv.  Indirect Economic Costs 
+
+Piracy imposes other indirect economic costs. For example, whenever a ship avoids the 
+
+Gulf of Aden by re-routing around the Cape of Good Hope, Egypt loses out on revenue from the 
+
+Suez Canal, the second-most central port in the global shipping network.13  
+
+v.  Unarmed Defensive Measures 
+
+In 2009, the IMO promulgated a set of “best management practices” for avoiding and 
+
+repelling pirate attacks.14 The recommendations include coordinating transits with military 
+
+                                                 
+11 Maritime Administration, Economic Impact of Piracy in the Gulf of Aden on Global Trade. 
+12 Id. 
+13 Pablo Kaluza et al., The complex network of global cargo ship movements, J. ROYAL SOC. 
+INTERFACE (Jan. 19, 2010) (analysis of 2007 global shipping traffic); Gilpin, supra note 6, at 11, 
+citing Louis Wasser, Somalia Piracy Costs Suez Canal Business, S.F. CHRON., 29 Apr. 2009 
+(projecting $1.5 billion decrease in Suez Canal revenue over two years). Because Suez is 
+primarily a transit point, not a primary shipping destination itself, canal revenue is entirely lost 
+rather than redistributed to other ports if ships route around it on their way to their destinations. 
+14 IMO, Best Management Practices to Deter Piracy in the Gulf of Aden and off the Coast of 
+Somalia developed by the industry, Maritime Safety Committee Circular MSC.1/Circ.1335 (Sep. 
+29, 2009) [hereinafter Best Practices]. 
+
+ 
+
+5 
+
+vessels in the area, pressurizing fire hoses with which to hit attacking pirates, and posting more 
+
+lookouts.15 Other defensive measures include “greasing or electrifying of hand rails and the 
+
+installation of barbed wire in vulnerable parts of ships.”16 More sophisticated equipment has also 
+
+been employed with mixed success. One non-lethal device, the long-rage acoustical device 
+
+(“LRAD”)—which sells for over $20,000—emits directionally-focused and painfully-loud sound 
+
+as one way to deter approach by potential attackers.17 However, after a few initial successes 
+
+against pirates, the LRAD has since proven ineffective.18 After using an LRAD to no effect, one 
+
+British security guard said, “We thought it would make the pirates back off, but they just 
+
+laughed. It was a total waste of time.”19 Another as-yet unproven non-lethal measure on the 
+
+market is a set of polypropylene rope nets called Propeller Arresters, which are even more 
+
+expensive than the LRAD. The company marketing the system claims that a set of Propeller 
+
+Arrestors, laid out around a ship’s perimeter, will tangle the propellers of approaching boats to 
+
+stop and deter pirate attacks.20 In sum, although there are several documented instances of non-
+
+                                                 
+15 Id. at 6–10. 
+16 Carolin Liss, Privatising Anti-Piracy Services in Strategically Important Waterways: Risks, 
+Challenges and Benefits, 6, (University of Tokyo, GraSPP Discussion Paper E-09-003, Oct. 
+2009). 
+17 LRAD Corporation, Maritime Applications, http://www.lradx.com/site/content/view/287/110 
+(last visited May 25, 2010). Tracy V. Wilson, How LRAD Works, HOWSTUFFWORKS.COM, 
+http://science.howstuffworks.com/lrad2.htm (last visited May 25, 2010). 
+18 Sam Gustin, High-tech letdown: Somali pirates repelled by bullets, not soundwaves, DAILY 
+FINANCE, Nov. 18, 2009, http://www.dailyfinance.com/story/company-news/high-tech-letdown-
+somali-pirates-repelled-by-bullets-not-sound/19245428/; James Kraska and Brian Wilson, Piracy 
+Repression, Partnering and the Law, 40 J. MAR. L. COM. 43 (2009), fn. 12, citing Rod Nordland, 
+NEWSWEEK, Dec. 2008 (quoting pirate as saying “For those with the sonic guns, we hijacked 
+some of them even after they fired the sonic guns.”). 
+19 Susie Boniface, Heroic Brit trio take on Somali pirates before escaping into sea, THE DAILY 
+MIRROR, Jul. 12, 2008, http://www.mirror.co.uk/news/top-stories/2008/12/07/heroic-brit-trio-
+take-on-somali-pirates-before-escaping-into-sea-115875-20951441/. 
+20 Merchant Maritime Warfare Centre, Propeller Arresters, 
+http://www.mmwc.org/propeller_arresters.php (last visited May 25, 2010). 
+
+ 
+
+6 
+
+lethal defenses stopping pirate attacks, Somali pirates have proven to be determined adversaries 
+
+capable of overcoming any such defenses employed thus far. 
+
+vi.  Armed Security 
+
+Recently, shippers have begun to place armed guards aboard vessels transiting the Gulf of 
+
+Aden and western Indian Ocean. In some instances, shipping companies contract with private 
+
+security companies to provide such guards. Some states have also provided military personnel to 
+
+protect ships sailing under their flags. For example, France—which has taken an aggressive 
+
+stance against piracy generally—has provided teams of marines to French fishing vessels.21 
+
+Hiring private armed guards costs approximately $40,000–$60,000 per voyage.22 The cost of 
+
+providing armed security is substantial, and, when combined with the simultaneous increase in 
+
+insurance premiums, imposes a substantial burden on ship owners. 
+
+vii.  Military Response 
+
+ 
+
+The European Union’s high-profile combined naval operation, EU NAVFOR (also called 
+
+Atalanta), had a budget of €8.3 million for 2009, its first year.23 However, this figure does not 
+
+include any of the costs of the military personnel and equipment used, which are borne 
+
+individually by the contributing states. Taking those costs into account, one analyst estimates the 
+
+total cost of the European operation at upwards of $300 million for one year.24 
+
+ 
+
+Although difficult to quantify accurately, the aggregate economic costs of Somali piracy 
+
+likely run into the billions of dollars,25 with some estimates as high as $16 billion per year.26 In 
+
+                                                 
+21 French marines repel new pirate attack on trawlers, AFP, Oct. 13, 2009. 
+22 Peter T. Leeson, Piracy, Economics, and the Law, 8 CIP REPORT 7, 2009. 
+23 Mission, EU NAVFOR Somalia, http://www.eunavfor.eu/about-us/mission/ (last visited May 
+25, 2010) 
+24 J. Peter Pham, Countering Somali Piracy by Involving the Private Sector, WORLD DEF. REV., 
+Apr. 30, 2009 (estimating one-year total cost of EU operation at “over $300 million”). 
+25 Gilpin, supra note 6, at 12. 
+
+ 
+
+7 
+
+historical context, however, this cost is slight. At the beginning of the 19th century, the United 
+
+States paid out a substantial portion of its treasury in tribute to the Barbary powers.27 As a very 
+
+rough point of comparison, the EU NAVFOR operation consumes merely 0.002% of the EU’s 
+
+budget, or 0.00002% of the EU’s combined $14.5 trillion gross product.28 
+
+II.  Deterring Piracy: Risk and Reward 
+
+The scale and sophistication of Somali pirate operations—often involving extended 
+
+voyages, multiple fast boats deployed from larger “motherships,” and an organized investment 
+
+market29—show that today’s pirates are sophisticated and rational economic actors. They are not, 
+
+as some press reports portray them, merely khat-chewing petty criminals acting on impulse.30 As 
+
+with any other economic activity, these business associations have emerged because the 
+
+participants perceive piracy’s rewards to outweigh its risks. 
+
+At a higher level of abstraction, maritime piracy, like any other criminal activity, can be 
+
+reduced by either diversion, deterrence, or incapacitation. These options themselves depend on 
+
+changing potential pirates’ perceptions of risks, rewards, and opportunities. Diversion operates 
+
+by providing alternative opportunities with acceptable rewards and less risk than the offense. 
+
+Deterrence increases the perceived risk of the offense. Incapacitation removes the opportunity 
+
+                                                 
+26 Jeni Bone, Piracy costs maritime industry $16bn+, Maritime Business News, Aug. 23, 2008, 
+http://www.marinebusiness-world.com/index.cfm?nid=48105. 
+27 U.S. Census Bureau, HISTORICAL STATISTICS OF THE UNITED STATES, 1789–1945, available at 
+http://www.census.gov/compendia/statab/past_years.html. 
+28 European Union, CIA WORLD FACTBOOK, https://www.cia.gov/library/publications/the-world-
+factbook/geos/ee.html (last visited Apr. 14, 2010); European Union, Budget, 
+http://europa.eu/pol/financ/index_en.htm (last visited Apr. 14, 2010). 
+29 Mohamed Ahmed, Somali sea gangs lure investors at pirate lair, REUTERS, Dec. 1, 2009, 
+http://www.reuters.com/article/idUSTRE5B01Z920091201?sp=true (describing “stock 
+exchange” for investing in piracy in Haradheere, Somalia); Gilpin, supra note 6, at 8–9 
+(describing mode of operation based on multiple skiffs and larger motherships) 
+30 Robyn Hunter, Somali pirates living the high life, BBC NEWS, Oct. 28, 2008, 
+http://news.bbc.co.uk/2/hi/7650415.stm. 
+
+ 
+
+8 
+
+entirely by restricting the actor’s ability to commit the offense by, for example, putting him in 
+
+jail.31 
+
+A.  Diversion 
+
+Somalia’s ruined economy presents few compelling alternatives to piracy. Most of the 
+
+country’s economy is based on agriculture and remittances from abroad, and its per-capita GDP 
+
+is estimated at $600—the fifth-lowest in the world.32 In contrast, one conservative analysis 
+
+estimates an average individual pirate could expect to earn $15,000 for a year’s work.33 Lucky 
+
+participants in a multi-million dollar ransom stand to earn far more. 
+
+One justification pirates often claim for their actions is to expel foreign fishing vessels 
+
+operating illegally in Somali waters. At one point, such poaching was a serious problem, and 
+
+overfishing by foreign vessels led to a significant depletion of certain fish stocks. Today, 
+
+although piracy has largely driven foreign fishing vessels away from Somalia and deep into the 
+
+Indian Ocean, pirates have continued to ply their new trade instead of returning to fishing—
+
+presumably because it is far more lucrative.34 
+
+Some authors advocate co-opting pirates into a legitimate coast guard under TFG 
+
+auspices. However, given the TFG pays its nascent coast guard recruits under $750 per year, few 
+
+pirates are likely to opt for a government job when they stand to earn twenty times that salary as 
+
+pirates.35 “High profits with low costs and little risk of consequences in a failed and starving 
+
+                                                 
+31 JOSHUA DRESSLER, UNDERSTANDING CRIMINAL LAW 15 (LexisNexis 2006) (discussing 
+“general deterrence,” and incapacitation as a species of “specific deterrence”). 
+32 Somalia, CIA WORLD FACTBOOK, supra note 4. 
+33 Gilpin, supra note 6, at 9–11. 
+34 Somalia Country Report, supra note 5, at 8. 
+35 Will Ross, Somali navy chief: World’s worst job?, BBC NEWS, Jun. 16, 2009, 
+http://news.bbc.co.uk/2/hi/africa/8096137.stm. 
+
+ 
+
+9 
+
+State ensure that Somali pirate groups have almost unlimited human resources and do not lack 
+
+for recruits and support.”36 
+
+Development of the Somali economy is the international community’s best hope for 
+
+diverting pirates away from crime. This is, however, a long term goal with little prospect of near-
+
+term realization.37 
+
+B.  Deterrence 
+
+International military efforts off the coast of Somalia focus on deterring piracy through a 
+
+strong military presence protecting designated shipping lanes.38 Despite the impressive array of 
+
+international cooperation and naval firepower, pirate attacks in the region have simply shifted 
+
+outward into the Indian Ocean and beyond the easy reach of international patrols. Deterrence is 
+
+further hampered by the frequent failure to prosecute those pirates who are captured by naval 
+
+forces—a policy derided as “catch and release.”39 States have advanced several justifications for 
+
+their refusals to prosecute suspected pirates, including cost and fears that pirates will claim 
+
+                                                 
+36 NATIONAL SECURITY COUNCIL, COUNTERING PIRACY OFF THE HORN OF AFRICA: PARTNERSHIP 
+& ACTION PLAN (Dec. 2008), 
+http://www.marad.dot.gov/documents/Countering_Piracy_Off_The_Horn_of_Africa_-
+_Partnership__Action_Plan.pdf. 
+37 But see Peter T. Leeson, Better Off Stateless: Somalia Before and After Government Collapse, 
+35 J. COMP. ECON. 689 (2007) (noting improvements to indicia of economic and human 
+development after collapse of central government). 
+38 EU NAVFOR Somalia, Mission, supra note 23 (describing the mission of the European 
+Union’s joint naval operation as “to help deter, prevent and repress acts of piracy and armed 
+robbery off the coast of Somalia”); New Counter-Piracy Task Force Established, US NAVY, 
+January 8, 2009, http://www.navy.mil/Search/display.asp?story_id=41687 (quoting US 
+commander of international naval task force, describing its mission as “deterring, disrupting and 
+eventually bringing to justice the maritime criminals involved in piracy events”). 
+39 See, e.g., EU force frees Somali “pirates”, BBC NEWS, Mar. 25, 2010, 
+http://news.bbc.co.uk/2/hi/africa/8586729.stm (six pirates released by EU NAVFOR one day 
+after their capture); S.C. Res. 1918, 2, U.N. Doc. S/RES/1918 (Apr. 27, 2010) (noting “cases 
+when persons suspected of piracy are released without facing justice”). 
+
+ 
+
+10 
+
+asylum once released.40 Most of the pirates now facing prosecution were turned over to Kenyan 
+
+authorities, who have since refused to take any more cases.41 Piracy has not subsided since the 
+
+multinational armada arrived on the scene, and insignificantly few pirates have been brought to 
+
+justice. Despite the hundreds of millions of dollars the international community has spent to fight 
+
+them, pirates still have little to fear. The international community’s current approach has failed to 
+
+create sufficient risk to deter pirates. 
+
+C.  Incapacitation 
+
+As discussed above, the pattern of “catch-and-release” seriously impairs naval forces’ 
+
+ability to incapacitate pirates by putting them on trial and into prison. The less savory alternative, 
+
+of course, is to kill them instead. Before the birth of modern human-rights law, this had been the 
+
+standard way of dealing with pirates in much of the world, and many now advocate its return.42 
+
+Because of Somalia’s poor long-term economic and social prospects, any incapacitation 
+
+through violence would be only temporary, as new recruits with little to lose and everything to 
+
+gain would be attracted to piracy for the same basic economic reasons as current pirates. 
+
+However, because Somalia’s most active pirates operate in identified clan-based organizations, a 
+
+concerted effort to incapacitate all the major pirate gangs simultaneously could likely set back 
+
+piracy in the region substantially, because reconstituting the experience and operational capacity 
+
+of the organizations would take some time. A concerted violent effort at incapacitation is likely 
+
+to be only temporary; however, absent an enduring solution to Somalia’s political problems, it 
+
+                                                 
+40 Bruno Waterfield, Somali pirates embrace capture as route to Europe, TELEGRAPH.CO.UK, 
+May 19, 2009, http://www.telegraph.co.uk/news/worldnews/piracy/5350183/Somali-pirates-
+embrace-capture-as-route-to-Europe.html. 
+41 Kenya ends trials of Somali pirates in its courts, BBC NEWS, Apr. 1, 2010, 
+http://news.bbc.co.uk/2/hi/africa/8599347.stm. 
+42 Sandeep Gopalan, Put Pirates to the Sword, WALL ST. J., Jan. 18, 2010. 
+
+ 
+
+11 
+
+could well be more effective, and cheaper, than the current approach, which is almost entirely 
+
+defensive and reactive. 
+
+D.  Incentives Toward Offense 
+
+Fundamentally, deterring maritime piracy boils down to altering pirates’ risk-reward 
+
+assessments. Unfortunately, pirates’ hostages serve dual purposes: they are both bargaining chips 
+
+for ransom negotiations and human shields used to dissuade attempts to recover ships by force. 
+
+The presence of innocent hostages makes retaking a hijacked vessel by force infeasible in most 
+
+circumstances, although it has been done successfully in a small number of instances. French 
+
+forces, for example, have staged at least three rescues; one resulted in the death of a hostage.43 
+
+Hostages are indeed pirates’ most powerful bargaining chips, which allow them to negotiate and 
+
+obtain large ransom payments with little threat of reprisal.44 Therefore, reducing the expected 
+
+reward for hijacking a ship is essentially impossible. Because of this threat to innocent human 
+
+life, counter-piracy strategy should focus on increasing the risk to pirates outside the context of 
+
+                                                 
+43 French commandos storm yacht held by pirates, one hostage killed, TELEGRAPH.CO.UK, Apr. 
+10, 2009, http://www.telegraph.co.uk/news/worldnews/piracy/5137861/French-commandos-
+storm-yacht-held-by-pirates-one-hostage-killed.html. One maritime security recommendation, 
+creating hardened “safe rooms” for crew to retreat to during a pirate attack, best preserves the 
+military option, as demonstrated by the Russian recapture of a pirated ship whose crew avoided 
+being taken hostage by using such a room. Tony Halpin, Russian special forces storm oil tanker, 
+arrest Somali pirates, THE TIMES ONLINE, May 7, 2010, 
+http://www.timesonline.co.uk/tol/news/world/africa/article7117736.ece. Ironically, Russia 
+released the pirates the next day, citing a lack of a legal framework for their prosecution. Freed 
+Somali pirates “probably died” – Russian source, BBC NEWS, May 11, 2010, 
+http://news.bbc.co.uk/2/hi/africa/8675978.stm. 
+44 If merchant ships were unmanned, for example, military responses would be far more 
+palatable and likely. In comparison, the U.S. military leads a trend of replacing manned aircraft 
+with unmanned aircraft which can be used without fear of killing any crew. For example, the 
+U.S. now operates the nearly fully autonomous Global Hawk aircraft, which will eventually 
+replace the manned U-2 made famous for being shot down over the Soviet Union during the 
+Cold War. P.W. SINGER, WIRED FOR WAR 36 (Penguin Books 2009). 
+
+ 
+
+12 
+
+any ongoing hijacking or ransom negotiation: any effective action against pirates must be 
+
+proactive, not reactive. 
+
+ 
+
+Initially, the shipping industry responded to Somali piracy by promulgating best practices 
+
+such as avoiding areas of known recent pirate activity, sailing at greater speed through high-risk 
+
+areas, coordinating transits with military commanders, using specially designated routes with 
+
+warship escorts, and improving reporting of attacks,45 which remains poor.46  
+
+More recently, shippers have begun placing armed guards on vessels, some of whom 
+
+have fired on pirates. Although it is too early to say to what extent arming the vessels will deter 
+
+pirate attacks, it seems reasonable to expect some reaction from the pirates—perhaps simply by 
+
+increasing their ransom demands to internalize their increased risk. 
+
+Although the shipping industry has public and private mechanisms for reporting pirate 
+
+attacks, even this most basic tool is greatly underutilized because of perceived fear of insurers 
+
+raising their premiums, pirates retaliating, and other reasons. Perhaps less surprisingly, the 
+
+insurance industry turned the surge in piracy into a profit center by selling new forms of “kidnap 
+
+and ransom” insurance.47 
+
+Even insurers, however, appear to be reaching the conclusion that the status quo cannot 
+
+last forever. One major maritime shipping insurer with historical ties to the Opium Wars48 has 
+
+                                                 
+45 Best Practices, supra note 14; About the Maritime Security Centre-Horn of Africa, 
+http://www.mschoa.org/About.aspx (last visited Apr. 15, 2010). 
+46 Elizabeth Andersen, et al., Suppressing Maritime Piracy: Exploring the Options in 
+International Law (Am. Soc. Int’l L. Workshop Report, 2010) (“It is widely believed that as 
+many as 50 percent of pirate attacks are not reported, due to shipowners’ fears that doing so will 
+increase insurance premiums and result in costly post-incident investigations.”). 
+47 Myles Neligan and Lorraine Turner, Piracy premiums take a breather but menace remains, 
+REUTERS, Apr. 1, 2010, http://uk.reuters.com/article/idUKLNE63001I20100401?sp=true. 
+48 William Kay, China House rides the economic dragon, THE INDEPENDENT, Jun. 20, 2001, 
+http://www.independent.co.uk/news/business/news/china-house-rides-the-economic-dragon-
+674714.html. 
+
+ 
+
+13 
+
+proposed funding a private navy to patrol the Somali coast, signaling its belief that both the 
+
+international naval efforts, as well as efforts to build up the TFG’s capacity, are insufficient to 
+
+protect its interests.49 
+
+An offensive campaign against Somali pirates—who lack sophisticated weapons systems 
+
+and military-style command and control—might be relatively inexpensive. With good targeting 
+
+information, a small force could strike the main Somali pirate havens, kill key figures in the 
+
+major pirate networks, and then leave the country quickly. Although the operation might only 
+
+incapacitate organized piracy for a short time, it would create a much stronger deterrent effect 
+
+than either the multinational naval effort or piecemeal prosecutions have achieved. 
+
+A direct attack against pirates on land would, of course, be wildly unpopular within 
+
+Somalia. One analyst warns that an attack on land “would lead to ‘the dangerous politicization 
+
+(and radicalization) of what has hitherto remained a purely economic phenomenon.’”50 This 
+
+might explain why states have been reluctant to take this path, even though the UN Security 
+
+Council has authorized them to do so.51 Land attacks by foreigners which could jeopardize 
+
+Somalia’s precarious political situation are, therefore, likely off the table for states. Private 
+
+actors, however, have few such concerns: the political cost is an externality about which a hull 
+
+insurer tired of paying ransoms is unlikely to care.  
+
+In short, all these factors point to the likelihood that private, non-state actors could soon 
+
+take the Somali piracy problem into their own hands by hiring private military companies to 
+
+                                                 
+49 Neligan, supra note 47. 
+50 Christopher Helman, The Profits Of Piracy, FORBES.COM, Apr. 15, 2010, 
+http://www.forbes.com/2010/04/15/pirates-somalia-shipping-insurance-business-logistics-
+piracy.html. 
+51 S.C. Res. 1846, U.N. Doc. S/RES/1846 (Dec. 2, 2008). 
+
+ 
+
+14 
+
+conduct offensive attacks against known pirate networks. This remainder of this paper addresses 
+
+the question of what the law would and should do with such a situation. 
+
+III. The Return of Private Military Force 
+
+Several conflicts in the last two decades demonstrate that offensive operations by private 
+
+military companies can be surprisingly effective and inexpensive compared to other approaches. 
+
+For example, in 1993, the government of Angola signed a $40 million contract with 
+
+Executive Outcomes.52 In one year, the firm reconstituted and trained a 5,000-strong Angolan 
+
+army brigade, brought in former Soviet aircrews to maintain and fly aircraft the country lacked 
+
+the expertise to operate itself, and fielded its own special-operations forces.53 The firm then 
+
+commanded these joint public-private forces in an offensive that quickly brought the UNITA 
+
+rebels, which the Angolan government had been fighting for two decades, to the negotiating 
+
+table.54 
+
+In early 1997, the government of Papua New Guinea (PNG) signed a contract with 
+
+another private military company, Sandline, for a military campaign to destroy the rebel 
+
+Bougainville Revolutionary Army (BRA).55 The contract contemplated a 16-man command, and 
+
+54 additional soldiers, 4 ex-Soviet attack helicopters, electronic warfare equipment, 150 firearms 
+
+and other weapons, and hundreds of thousands of rounds of ammunition.56 The principal 
+
+objectives of the contract were to destroy the BRA’s military capability and to retake a strategic 
+
+mine. Sandline was to train PNG soldiers, and to engage directly in combat with the BRA, 
+
+including commanding PNG forces and operating aircraft. Sandline’s employees would be 
+
+                                                 
+52 Singer, supra note 2, at 107–10. 
+53 Id. 
+54 Id. 
+55 Id. at 245–54. 
+56 Id. at 246–48, 253–54. 
+
+ 
+
+15 
+
+enrolled as “Special Constables” in the PNG military—a convenient means around classification 
+
+as “mercenaries” under the Geneva Protocol I definition, which excepts members of a state’s 
+
+military.57 
+
+Singer’s three-tiered typology for characterizing firms in the private military industry is 
+
+used widely in the literature. The first category, military provider firms, engage in direct 
+
+command or combat. Executive Outcomes and Sandline are leading examples.58 The second 
+
+category, military consultant firms, are far more common today. These firms offer training to 
+
+host state militaries, but do not themselves engage in combat. MPRI, now a subsidiary of 
+
+publicly-held L-3 Communications, is a typical military consultant firm.59 The third category, 
+
+military support firms, provide logistical support to militaries, but do not train them or engage in 
+
+combat.60 This paper is concerned primarily with military provider firms. 
+
+IV. Law and Private Transnational Violence 
+
+Both domestic and international law may apply to incidents of transnational violence 
+
+between non-state actors.61 As will be demonstrated, public international law, which has focused 
+
+primarily on states, is not well-equipped to deal with this form of violence, which does not fit the 
+
+                                                 
+57 See Part IV.C, infra, and id. at 249; Protocol Additional to the Geneva Conventions of 12 
+August 1949, and Relating to the Protection of Victims of International Armed Conflicts 
+(Protocol I) art. 47(2)(e), Jun. 8, 1977, 1125 U.N.T.S. 3, 16 I.L.M. 1391 [hereinafter Protocol I]. 
+Note, however, that by explicitly integrating PMC fighters into a state’s military, the state will 
+likely responsibility for those fighters’ actions. See Military and Paramilitary Activities (Nicar. v. 
+U.S.), 1986 I.C.J. 14 (June 27) (finding U.S. responsible for rebels’ actions against Nicaraguan 
+government). See also David Turns, Implementation and compliance, in PERSPECTIVES ON THE 
+ICRC STUDY ON CUSTOMARY INTERNATIONAL HUMANITARIAN LAW 364–65 (Elizabeth 
+Wilmshurst and Susan Breau eds., Cambridge U. Press 2007). 
+58 Singer, supra note 2, at 92–95. 
+59 Id. at 95–97. 
+60 Id. at 97–100. 
+61 Contrast, for example, the “war on terror,” in which both states, such as the U.S., and non-state 
+actors, such as Al Qaeda, are in conflict. 
+
+ 
+
+16 
+
+existing legal frameworks for armed conflict. The following sections evaluate specific 
+
+instruments and bodies of law that may apply to private transnational violence. 
+
+A.  UN Charter 
+
+The United Nations Charter, like most multilateral treaties, binds only signatory states;62 
+
+it has no direct application to private actors. Therefore, Article 2(4)’s prohibition on the use of 
+
+force applies only to states.63 
+
+However, the Charter does contemplate a broad role for the UN and its member states in 
+
+establishing and keeping peace. The Charter does not bar the UN or its member states from 
+
+acting against non-state actors if they threaten international peace and security. For example, 
+
+Chapter VII, which empowers the Security Council to authorize force, does not specify whether 
+
+the targets of its action must be states. The Security Council has in several instances authorized 
+
+force against non-state actors under Chapter VII, most notably against Al Qaeda after 9/11,64 and 
+
+more recently against Somali pirates.65 Where Al Qaeda’s threat to international peace and 
+
+security is apparent, this is less clear for piracy. Although the Security Council has not stated 
+
+explicitly whether piracy itself is sufficient to act under Chapter VII, in its more limited action to 
+
+encourage criminal prosecution of pirates, the Council did not cite Chapter VII.66 
+
+                                                 
+62 “Accordingly, our respective Governments…have agreed to the present Charter of the United 
+Nations and do hereby establish an international organization to be known as the United 
+Nations.” U.N. Charter, preamble. 
+63 “The [U.N.] and its Members…shall act in accordance with the following Principles…” Id. art. 
+2. “Members” are defined as states. Id. arts. 3, 110. 
+64 S.C. Res. 1373, U.N. Doc. S/RES/1373 (Sept. 28, 2001) (reacting to 9/11 attacks under 
+Chapter VII to suppress terrorism by non-state actors). 
+65 S.C. Res. 1846, supra note 51 (allowing warships entry into Somali territorial waters for anti-
+piracy operations); S.C. Res. 1851, U.N. Doc. S/RES/1851 (Dec. 16, 2008) (endorsing 
+cooperation between states); S.C. Res. 1897, U.N. Doc. S/RES/1897 (Nov. 30, 2009) (extending 
+mandate for naval operations). Each resolution notes that piracy is one aspect of Somalia’s 
+security problems. 
+66 S.C. Res. 1918, U.N. Doc. S/RES/1918 (Apr. 27, 2010). 
+
+ 
+
+17 
+
+Article 2(7) provides further support for UN action against private actors. Article 2(7) 
+
+generally exempts domestic matters from UN intervention. However, it expressly allows 
+
+“enforcement measures under Chapter VII” in the context of domestic conflict.67 Presumably, 
+
+transnational violence by non-state actors would fall within this exception. In fact, the Security 
+
+Council’s authority under Chapter VII extends to purely domestic violence between non-state 
+
+actors if it constitutes a “threat to the peace.”68  
+
+In sum, although the UN Charter does not directly prohibit private transnational violence 
+
+in the same explicit terms in which it prohibits violence between states, it does provide a means 
+
+for states to act against it. 
+
+B.  Law of the Sea 
+
+The law of the sea provides clearer results for private violence than does general 
+
+international law. Two principal treaties define piracy and related offenses: the United Nations 
+
+Convention on the Law of the Sea69 (“UNCLOS”) and the Convention for the Suppression of 
+
+Unlawful Acts Against the Safety of Maritime Navigation70 (“SUA Convention”). Applying 
+
+these treaties, the sea component of any attack against pirates by other private actors would 
+
+likely constitute piracy or a related SUA offense.  
+
+                                                 
+67 “Nothing contained in the present Charter shall authorize the United Nations to intervene in 
+matters which are essentially within the domestic jurisdiction of any state or shall require the 
+Members to submit such matters to settlement under the present Charter; but this principle shall 
+not prejudice the application of enforcement measures under Chapter VII.” U.N. Charter art. 
+2(7). 
+68 Prosecutor v. Tadic, Case No. IT-94-1-I, Decision on the Defence Motion for Interlocutory 
+Appeal on Jurisdiction, ¶ 30, (Oct. 2, 1995) (noting “settled practice” of the Security Council and 
+“common understanding” that “internal armed conflicts” are actionable under Chapter VII if they 
+constitute a “threat to the peace”). 
+69 United Nations Convention on the Law of the Sea, Dec. 10, 1982, 1833 U.N.T.S. 3, 21 I.L.M. 
+1261 [hereinafter UNCLOS]. 
+70 Convention and Protocol from the International Conference on the Suppression of Unlawful 
+Acts against the Safety of Maritime Navigation, Mar. 10, 1988, 27 I.L.M. 668 [hereinafter SUA 
+Convention]. 
+
+ 
+
+18 
+
+Article 101 of UNCLOS defines piracy as “any illegal acts of violence…committed for 
+
+private ends…on the high seas…[or] outside the jurisdiction of any State,” or any voluntary 
+
+participation in such violence. Under the scenario presented, offensive attacks against pirates 
+
+would clearly be “acts of violence…committed for private ends.”  
+
+Article 107 provides further guidance by giving the right to interdict pirate ships 
+
+exclusively to military vessels “or other ships or aircraft clearly marked and identifiable as being 
+
+on government service and authorized to that effect.”71 Therefore, any attack by private forces on 
+
+the high seas—even an attack against pirates—is piracy under UNCLOS unless a state has 
+
+explicitly and visibly authorized the attacking ship. 
+
+Similarly, the SUA Convention creates a criminal offense for anyone who “performs an 
+
+act of violence against a person on board a ship if that act is likely to endanger the safe 
+
+navigation of that ship,” but also exempts state forces from liability.72 As with UNCLOS, any 
+
+attack other than in self-defense within the SUA Convention’s jurisdiction is a crime, even if 
+
+committed against pirates.  
+
+Matters are further complicated by states’ adoption of these treaties. UNCLOS has been 
+
+adopted by 160 states,73 and SUA by 156.74 The U.S. has adopted SUA, but not UNCLOS—
+
+although it has adopted the earlier Convention on the High Seas, which is substantially similar, 
+
+especially in its piracy provisions.75 Under the Siad Barre regime, Somalia adopted UNCLOS, 
+
+                                                 
+71 UNCLOS, supra note 69, art. 107. 
+72 SUA Convention, supra note 70, art. 3(1)(b). 
+73 U.N. Treaty Collection, United Nations Convention on the Law of the Sea,  
+http://treaties.un.org/Pages/ViewDetailsIII.aspx?&src=TREATY&mtdsg_no=XXI~6&chapter=2
+1&Temp=mtdsg3&lang=en (last visited May 26, 2010) 
+74 IMO, Status of Conventions, http://www.imo.org/Conventions/mainframe.asp?topic_id=247 
+(last visited May 26, 2010). 
+75 Convention on the High Seas, Apr. 29, 1958, 450 U.N.T.S. 82. 
+
+ 
+
+19 
+
+but neither the old regime nor the TFG has adopted SUA.76 The UN Security Council has 
+
+attempted to smooth over some of these difficulties by promoting the use of SUA and UNCLOS, 
+
+and encouraging more states to adopt SUA and the Transnational Organized Crime convention 
+
+(discussed below). Further, piracy is among the few specific crimes prohibited by the law of 
+
+nations, and for which universal jurisdiction is generally recognized.77 Given the universally 
+
+criminal nature of piracy, Somalia’s failed-state status, and UN Security Council resolutions 
+
+authorizing states to intrude into its territorial waters (albeit with the TFG’s express consent), 
+
+then, for practical purposes, whether an attack occurs within or without Somalia’s territorial 
+
+waters has little relevance. The principal question, then, is whether these private acts of violence 
+
+are “illegal.” 
+
+C.  International Law’s Weak Prohibition of Mercenarism 
+
+A report to the U.K. House of Commons (the Green Paper) explains why “mercenary” is 
+
+such a loaded term: “In modern times mercenaries have a bad reputation, so much so that the 
+
+word has become almost a form of abuse. This is based partly on the experience of the 60s and 
+
+70s when, starting with the Congo, mercenaries were associated with instability and secessionist 
+
+movements. They were also involved both in a number of attempted coups and in human rights 
+
+abuses.”78  
+
+The international community reacted to what it perceived as a trend in illegitimate private 
+
+violence, and advanced several treaties purporting to prohibit mercenary activity. However, their 
+
+                                                 
+76 IMO, Status of Conventions by Country, 
+http://www.imo.org/Conventions/mainframe.asp?topic_id=248 (last visited May 26, 2010). 
+77 Eugene Kantorovich, “A Guantanamo on the Sea”: The Difficulties of Prosecuting Pirates and 
+Terrorists, 98 CAL. L. REV. 243, 251, n.61 (2010). 
+78 FOREIGN AND COMMONWEALTH OFFICE, PRIVATE MILITARY COMPANIES: OPTIONS FOR 
+REGULATION, 2001–02, H.C. 577, 14 at ¶ 32 (footnote omitted) [hereinafter Green Paper]. 
+
+ 
+
+20 
+
+shortcomings are many and well documented.79 The common key flaw of these instruments is 
+
+that they focus too narrowly on specific instances of abuse, and fail to take a broader historical 
+
+view of private military activity. 
+
+As discussed below,80 most of the protections of the Geneva Conventions, including 
+
+Protocol I, extend only to international armed conflict, i.e., war between states.81 Because 
+
+mercenaries are so often employed in internal armed conflict, this has the effect of gutting the 
+
+Protocol’s prohibition on mercenarism of a great deal of its potential effect. Further, a study by 
+
+the British House of Commons notes the ease of evading the Protocol I definition by skillful 
+
+contracting. For example, Sandline’s 1997 contract with Papua New Guinea specified that its 
+
+employees would be enrolled in the PNG military, thus easily satisfying Geneva Protocol I’s 
+
+exception for “member[s] of the armed forces of a Party to the conflict.”82  
+
+The UN’s International Convention against the Recruitment, Use, Financing and Training 
+
+of Mercenaries (“Mercenary Convention”) is similarly narrowly tailored to the unique events in 
+
+Africa in the mid-20th century. It is entirely useless in the context of purely private international 
+
+violence because it prohibits only the use of mercenaries by or against states in armed conflict.83 
+
+The Mercenary Convention is also largely hamstrung by its lack of meaningful adoption—only 
+
+                                                 
+79 Id. at 9, ¶ 16 (concluding that “The internationally agreed definitions have been shaped to suit 
+the agendas of those drafting them and are not necessarily very useful”). 
+80 See infra Part IV.G. 
+81 Protocol I, supra note 57, art. 1(3), citing Common Article 2 of the original Geneva 
+Conventions (defining scope of Conventions to be “all cases of declared war or any other armed 
+conflict which may arise between two or more [states]”), see infra note 112. 
+82 Protocol I, supra note 57, art. 47(2)(e). Note, however, that Protocol I would not have applied 
+to the PNG conflict because it was not international in nature. 
+83 International Convention Against the Recruitment, Use, Financing and Training of 
+Mercenaries art. 1, G.A. Res. 44/34, U.N. Doc. A/44/34 (Dec. 4, 1989) [hereinafter “Mercenary 
+Convention”]. 
+
+ 
+
+21 
+
+32 states have joined the treaty, and none of the major sources of private military talent are 
+
+parties.84 
+
+ 
+
+The Green Paper notes similar problems with the OAU’s Convention for the Elimination 
+
+of Mercenarism in Africa. The OAU’s definition is drawn narrowly to target only mercenaries 
+
+working against an OAU member state or OAU-recognized national liberation movement.85 
+
+Therefore, it would have allowed both of the controversial PMC deployments by Executive 
+
+Outcomes in Sierra Leone and Angola merely because they were sponsored by an OAU member 
+
+state.86 Because PMC attacks on pirates target neither states nor revolutionary movements, they 
+
+too would fall outside both the OAU and Mercenary Convention definitions. 
+
+ 
+
+Percy, however, finds another explanation for the weakness of international law’s 
+
+prohibition against mercenaries. She argues that “weak law can be the result of strong norms,”87 
+
+and, in the case of the Article 47 and the Mercenary Convention, that states created weak law 
+
+because “[s]tates were so committed to the anti-mercenary norm that they refused to dilute it or 
+
+adjust it in any way during the lawmaking process, resulting in law that precisely reflects the 
+
+norm but is legally flawed.”88 According to Percy, mercenaries are objectionable for two main 
+
+reasons: (1) because they “lie outside state control and so pose both a practical threat to states 
+
+and a threat to the normative idea that states ought to have a monopoly on the use of force”, and 
+
+(2) because their motive to fight—financial gain—is illegitimate as compared to others, who 
+
+                                                 
+84 ICRC, International Humanitarian Law – UN Convention on Mercenaries 1989, 
+http://www.icrc.org/ihl.nsf/INTRO/530?OpenDocument (last visited June 10, 2010). 
+85 OAU Convention for the Elimination of Mercenarism in Africa, Jul. 3, 1977, OAU Doc. 
+CM/817 (XXIX), Annex II Rev.3 [hereinafter OAU Convention]. 
+86 Green Paper, supra note 78, at ¶¶ 7–8; OAU Convention, supra note 85. 
+87 Sarah V. Percy, Mercenaries: Strong Norm, Weak Law, 61 INT’L ORG. 367, 369 (2007). 
+88 Id. at 368. 
+
+ 
+
+22 
+
+fight for the acceptable motivations of “patriotism or ideology.”89 Percy also notes that 
+
+mercenaries’ financial motive is more important to their repugnance than is their foreignness, 
+
+noting that various foreign volunteer fighters are seldom considered mercenaries.90 Percy traces 
+
+the norm against mercenaries back to the late-19th century, the point at which modern states 
+
+ceased employing mercenaries in favor of domestic professionalized forces, drawing on evidence 
+
+from state practice in the 1960s that shows states treated that decade’s mercenary activities in 
+
+Africa as an illegitimate breach of such a norm—clearly predating both Article 47 and the 
+
+Mercenary Convention, of 1979 and 1989, respectively.91 
+
+Percy’s articulation of a strong norm against using mercenaries supports the view that 
+
+using private force against pirates is objectionable, even if that norm is reflected poorly in the 
+
+official instruments of international law.  
+
+D.  Somali Law 
+
+One principal reason for the growth of Somali piracy is, of course, the lack significant 
+
+law-enforcement capacity since the central government’s collapse in 1991.92 Both of Somalia’s 
+
+main pirate havens, Eyl and Harardhere, are clearly outside the reach of the TFG. Eyl is situated 
+
+in Somalia’s northeastern semi-autonomous Puntland region, and Harardhere is along the central 
+
+coast. These towns would be the likely focus on land of an offensive against organized pirate 
+
+gangs. Although the popular media frequently portrays Somalia as completely lawless, Puntland 
+
+and Somaliland are comparatively stable, with functioning judicial systems,93 and Xeer, a 
+
+                                                 
+89 Id. at 371. 
+90 Id. at 372. 
+91 Id. at 372–74. 
+92 Somalia, CIA WORLD FACTBOOK, supra note 4, Introduction. 
+93 See Mohamed Olad Hassan, 7 Somali pirates sentenced to life in jail, FOX NEWS, Apr. 28, 
+2008 (Puntland court sentences pirates after capture by regional militia); but see Gunmen kill 
+
+ 
+
+23 
+
+customary law system, is in widespread use throughout the country.94 However, as a community-
+
+based system, dealing with foreign mercenary soldiers from the other side of the world is far 
+
+outside Xeer’s scope. Further, even if Puntland and Somaliland were to receive foreign 
+
+assistance to build their judicial and law-enforcement capacity, as they have requested,95 the 
+
+overall situation in Somalia suggests that pirates would merely relocate elsewhere. 
+
+E.  International Human Rights Law 
+
+Because no other rights are possible without it, the most important human right of all is 
+
+the right to life, which is recognized by the key instruments of human rights protection. It is the 
+
+first right guaranteed by the Universal Declaration of Human Rights, which declares, “Everyone 
+
+has the right to life, liberty and security of person.”96 Similarly, the International Covenant on 
+
+Civil and Political Rights (ICCPR) states that “[e]very human being has the inherent right to life. 
+
+This right shall be protected by law. No one shall be arbitrarily deprived of his life.”97 The 
+
+American Convention on Human Rights states, “Every person has the right to have his life 
+
+respected. This right shall be protected by law…No one shall be arbitrarily deprived of his 
+
+life.”98 
+
+Although the right to life’s widespread formal recognition is relevant in the sense that it 
+
+may be considered part of customary international law, recognition alone is not sufficient to 
+
+guarantee that the right is enforceable against non-state actors. These treaties operate directly 
+
+                                                 
+Somalia pirate judge, BBC NEWS, Nov. 12, 2009 (Puntland judge from previous story 
+murdered). Somaliland court jails 14 for piracy, AFP, May 10, 2009. 
+94 Leeson, Better Off Stateless, supra note 37, at 25–26. 
+95 Peter Greste, Puntland turns against Somali pirates, BBC NEWS, Jun. 1, 2009. 
+96 Universal Declaration of Human Rights art. 3, Dec. 10, 1948, G.A. Res. 217A (III), U.N. Doc. 
+A/810 [hereinafter UDHR]. 
+97 International Covenant on Civil and Political Rights, art. 6(1), Dec. 16, 1966, 999 U.N.T.S. 
+171 [hereinafter ICCPR]. 
+98 American Convention on Human Rights, art. 4(1), Nov. 22, 1969, O.A.S. Treaty Series No. 
+36, 1144 U.N.T.S. 123 [hereinafter ACHR]. 
+
+ 
+
+24 
+
+only on states which have agreed to them. The UDHR is, on its face, a non-binding declaration 
+
+of a “common standard of achievement,” albeit one meant for “all peoples and all nations.”99 
+
+Although the ICCPR and ACHR oblige signatory states to protect those rights they specify, this 
+
+does not make either treaty itself binding on non-state actors, and leaves rights enforcement up to 
+
+states, whose motivation and capacity to prosecute violations vary widely.100 
+
+F.  Domestic Law: The Alien Tort Statute 
+
+The Alien Tort Statute (ATS) provides U.S. federal-court jurisdiction over tort claims by 
+
+aliens for torts “committed in violation of the law of nations or a treaty of the United States.”101  
+
+Recent ATS decisions have arisen primarily in the human-rights context, and have 
+
+required that the defendant have been a “state actor” at the time of the tort. For example, in 
+
+Filartiga v. Pena-Irala, the Second Circuit held that the ATS provided jurisdiction for a victim’s 
+
+family’s tort case against a policeman (now living in the U.S.) who had tortured the victim 
+
+abroad.102 For two reasons, the decision turned on the fact that the defendant was a state actor at 
+
+the time of the offense. First, acting under color of law was an element of the particular offense 
+
+involved (official torture under customary international law).103 Second, the Court construed 
+
+human rights as protecting individuals against governments, as opposed to other individuals.104 
+
+Although finding an ATS defendant to be a state actor is necessary for many types of 
+
+claims, it is not required for all. This is because the ATS provides jurisdiction for any 
+
+“tort…committed in violation of the law of nations.” State action is merely an element of the 
+
+                                                 
+99 UDHR, supra note 96, at pmbl. 
+100 ICCPR, supra note 97, art. 2; ACHR, supra note 97, art. 1. 
+101 28 U.S.C. § 1350 [hereinafter ATS]. 
+102 Filartiga v. Pena-Irala, 630 F.2d 876 (2d Cir. 1980). 
+103 Id. at 882–84 (“…we conclude that official torture is now prohibited by the law of nations”). 
+104 Id. at 885 (“…international law confers fundamental rights upon all people vis-à-vis their own 
+governments”). 
+
+ 
+
+25 
+
+underlying tort—not an element of the ATS itself. In Sosa v. Alvarez-Machain, the Supreme 
+
+Court narrowed the ATS’ application to a “handful of international law cum common law claims 
+
+understood in 1789,”105 including “piracy, crimes against peace, war crimes, and crimes against 
+
+humanity.”106 The inclusion of piracy in this list is key. Because piracy is a universally-
+
+recognized crime under customary international law107 (entirely distinct from human-rights 
+
+issues)—and is not perpetrated by states, requiring state action for piracy claims makes no sense. 
+
+Therefore, a piracy victim may sue his attackers in tort in U.S. federal court under the ATS. 
+
+As discussed above, a PMC attack against pirates, if not expressly authorized by a state, 
+
+would itself constitute piracy under UNCLOS,108 and would therefore satisfy the “in violation of 
+
+the law of nations or a treaty of the United States” prong of the ATS.109 See supra Part IV.B. If a 
+
+state authorized the PMC attack, then the victim could use that authorization to prove the state-
+
+action element of a human-rights tort. If there was no authorization, the victim could allege 
+
+piracy itself as a tort, bypassing the state-action requirement. Either way, then, the ATS would 
+
+provide jurisdiction in a Somali pirate’s case against his PMC attackers. 
+
+Where international law provides a broader right created after 1789, one must look 
+
+beyond the Alien Tort Statute for jurisdiction. For example, the U.S. implementation of the 
+
+                                                 
+105 Sosa v. Alvarez-Machain, 542 U.S. 692, 712 (2004). 
+106 Jessica Priselac, Comment, The Requirement of State Action in Alien Tort Statute Claims: 
+Does Sosa Matter?, 21 EMORY INT’L L. REV. 789, 792 (2007). 
+107 Id. 
+108 UNCLOS, supra note 69, arts. 101, 107. 
+109 Although the U.S. is not a party to UNCLOS, “it appears to be satisfied with all aspects of the 
+Convention except for the deep seabed portion of the text.” Jonathan I. Charney, The United 
+States and the Law of the Sea after UNCLOS III: The Impact of General International Law, 46 
+LAW & CONTEMP. PROBS. 37 (1983). There is no reason to believe the United States’ practice in 
+piracy would deviate from the UNCLOS rules it has impliedly endorsed with its votes on the 
+Security Council, and which rules are in any event functionally identical to those in the older 
+Convention on the High Seas to which it is a party. See supra note 75, arts. 15, 21. 
+
+ 
+
+26 
+
+Hostages Convention does not limit the offense to state actors.110 However, it only creates a 
+
+criminal offense, rather than a private right of action. If the government declines to prosecute, the 
+
+victim has no private right of action under the Convention or the Supreme Court’s construction 
+
+of the Alien Tort Statute. 
+
+G.  International Humanitarian Law 
+
+International humanitarian law (“IHL”), or the law of armed conflict (“LOAC”), is a rich 
+
+body of law best known for the Geneva Conventions, but which traces its roots to the Lieber 
+
+Code developed during the U.S. Civil War.111 Before exploring it, however, a threshold question 
+
+must be answered: does international humanitarian law apply at all to transnational violence 
+
+without any state combatants? 
+
+IHL distinguishes between two forms of armed conflict: international armed conflict and 
+
+non-international armed conflict (or “armed conflict not of an international character,” as the 
+
+Geneva Conventions describe it). Purely private transnational violence fits neither category 
+
+neatly, however. Such conflict crosses international borders, a characteristic of international 
+
+armed conflict, but involves no states as combatants; international armed conflict is typically 
+
+between states. Non-international armed conflict essentially means civil war, or a conflict 
+
+between state and non-state combatants. Although neither category fits perfectly, transnational 
+
+non-state violence is more like non-international armed conflict because of the major role of at 
+
+least one non-state actor.112 
+
+                                                 
+110 18 U.S.C. § 1203. 
+111 General Orders No. 100, in RICHARD SHELLY HARTIGAN, LIEBER’S CODE AND THE LAW OF 
+WAR (Precedent 1983), available at The Avalon Project, Yale Law School, 
+http://avalon.law.yale.edu/19th_century/lieber.asp (last visited Jun. 10, 2010) [hereinafter Lieber 
+Code]. 
+112 Some authors have characterized aspects of the United States’ efforts against terrorist non-
+state actors as international armed conflict. See, e.g., John Cerone, Status of Detainees in 
+
+ 
+
+27 
+
+In substance, the law of non-international armed conflict is a very small subset of IHL. 
+
+Only Common Article 3 and Protocol II (if ratified by the state combatant) apply to non-
+
+international armed conflict.113 POW rules do not apply, and combatants may be prosecuted as 
+
+criminals instead of enjoying combatant immunity. Additionally, because there is no state party 
+
+in purely private transnational violence, not even Additional Protocol II would apply—leaving 
+
+only Common Article 3 to protect combatants. 
+
+Common Article 3, which purports to be non-derogable, protects “[p]ersons taking no 
+
+active part in the hostilities, including members of armed forces who have laid down their arms 
+
+and those placed ‘hors de combat’ by sickness, wounds, detention, or any other cause” from 
+
+inhumane treatment. Article 3(1) absolutely prohibits four specific categories of conduct: 
+
+(a) violence to life and person, in particular murder of all kinds, mutilation, cruel 
+
+treatment and torture; 
+
+(b) taking of hostages; 
+
+(c) outrages upon personal dignity, in particular humiliating and degrading 
+
+treatment; 
+
+                                                 
+International Armed Conflict, and their Protection in the Course of Criminal Proceedings, ASIL 
+INSIGHT, n.1 (Jan. 2002), http://www.asil.org/insigh81.cfm. Although its reasoning is not entirely 
+clear, the Supreme Court appeared to reject this view as to alleged Al Qaeda members captured 
+in Afghanistan, holding instead that Common Article 3 protected them. Hamdan v. Rumsfeld, 
+548 U.S. 557, 630–31 (2006). 
+113 Geneva Convention Relative to the Treatment of Prisoners of War art. 3, Aug. 12, 1949, 6 
+U.S.T. 3316, 75 U.N.T.S. 135 [hereinafter Common Article 3]; Protocol Additional to the 
+Geneva Conventions of 12 August 1949, and Relating to the Protection of Victims of Non-
+International Armed Conflicts (Protocol II) art. 1, Jun. 8, 1977, 1125 U.N.T.S. 609, 26 I.L.M. 
+568 [hereinafter Protocol II]. 
+
+ 
+
+28 
+
+(d) the passing of sentences and the carrying out of executions without previous 
+
+judgment pronounced by a regularly constituted court, affording all the judicial 
+
+guarantees which are recognized as indispensable by civilized peoples.114 
+
+PMC attacks on pirates would constitute murder under Article 3(1)(a). Because piracy is a crime 
+
+under the law of nations, and because some states impose the death penalty for piracy, such 
+
+attacks, if construed as punishment for the crime of piracy, could also constitute extrajudicial 
+
+executions under Article 3(1)(d). 
+
+ 
+
+The remaining question, then, is whether pirates qualify as “[p]ersons taking no active 
+
+part in the hostilities” at all. There are two parts to this question: first, whether there are 
+
+“hostilities”; and second, whether the pirates are “taking no active part” in them. “Hostilities” 
+
+and “armed conflict,” although terms of art in IHL, lack universally accepted definitions.115 
+
+Determining whether any incident of armed violence rises to the level of “armed conflict” is both 
+
+fact intensive and often subjective, especially for determinations of non-international armed 
+
+conflict.116  
+
+The hypothetical scenario presented in this paper, a PMC attacking Somali pirates, is 
+
+most likely not an “armed conflict” because (1) both sides’ goals are primarily economic, not 
+
+political; (2) although the PMC has military objectives against pirates, the same is not true of the 
+
+pirates; and (3) there is no overall umbrella group or political movement behind the pirates; and 
+
+(4) piracy is defined clearly by international law as a crime, not as an act of war. These factors 
+
+were quite different in the U.S.’ early conflict with the Barbary pirates, in which piracy was used 
+
+as an instrument of state by three Barbary powers, Tripoli, Algiers and Tunis, which, “although 
+
+                                                 
+114 Common Article 3, supra note 113. 
+115 Jelena Pejić, Status of armed conflicts, in PERSPECTIVES ON THE ICRC STUDY ON CUSTOMARY 
+INTERNATIONAL HUMANITARIAN LAW, supra note 57, at 79. 
+116 Id. 
+
+ 
+
+29 
+
+nominally satraps of the Ottoman Empire, acted autonomously.”117 The Barbary pirates’ dual 
+
+goals were to gain from taking ships, and to coerce states into paying tribute to the Barbary 
+
+powers.118 Because of these differences, the Barbary conflict would qualify as armed conflict, 
+
+but violence between a PMC and modern Somali pirates would not. 
+
+Even if there were “hostilities,” one would be hard pressed to find pirate victims of a 
+
+PMC attack to be “taking no active part” in them. It seems, then, that international humanitarian 
+
+law would not apply to purely private transnational violence, at least in the form presented by a 
+
+PMC attack on individual pirates. 
+
+V.  Accountability for Private Military Force 
+
+Dickinson addresses concerns about accountability for private military forces,119 which 
+
+are illustrated in the anti-piracy context by a late-March 2010 pirate attack on the MV Almezaan. 
+
+Armed private security guards aboard the Almezaan returned fire, killing one pirate—the first 
+
+known killing by private security forces of a pirate.120 The six surviving pirates were released the 
+
+next day “because the captain of the ship they were accused of attacking declined to identify 
+
+them for the purposes of legal action.”121  
+
+Although the Almezaan’s captain may have had legitimate reasons not to cooperate, the 
+
+incident raises the specter of a code of silence. Although courts would likely void contract terms 
+
+requiring sailors to not cooperate with investigations into killings by private security teams as 
+
+                                                 
+117 Hamdan Amicus Brief, supra note 8, at 4. 
+118 Id. at 4 and n. 7. 
+119 Laura Dickinson, Filartiga’s Legacy in an Era of Military Privatization, 37 RUTGERS L. J. 
+703 (2006) (arguing that human-rights tort claims have a better chance of holding government 
+contractors accountable than do legal actions against government employees). 
+120 Alan Cowell, In First, Private Guards Kill Somali Pirate, N.Y. TIMES, Mar. 24, 2010. 
+121 Alan Cowell, Pirate Suspects Are Released by Naval Force, N.Y. TIMES, Mar. 25, 2010. 
+
+ 
+
+30 
+
+contrary to public policy,122 the parties have strong incentives toward silence regardless of the 
+
+formal terms of their contract. Individual sailors have little incentive to cooperate with an 
+
+investigation that might result in murder prosecutions against security guards who saved them 
+
+from being taken hostage (or worse) by pirates. Refusing to cooperate deprives a prosecution of 
+
+either the security guards or the pirates of key witnesses, with the end result—as in the Almezaan 
+
+attack—of impunity for both the security guards and the surviving pirates. Shipping companies 
+
+have a similarly strong incentive to not cooperate with investigating authorities: security 
+
+contractors might refuse to work for shippers who violate the code of silence, or charge them 
+
+more. 
+
+A code of silence could also shield serious human rights violations. Although most 
+
+vessels report an attack immediately, a captain might opt not to report if he believed his private 
+
+security team could easily overpower the attackers. This decision might be based on subjective 
+
+malice and intent to kill pirates; but it might also be a purely rational economic decision. If the 
+
+attack can be suppressed quickly, a captain opting not to report the attack could continue and 
+
+arrive in port on time. If, on the other hand, he reported the attack, then international naval forces 
+
+would respond and investigate, a process that would eat into the ship’s schedule. If the captain 
+
+does not take into account the value of pirates’ lives, his most rational decision might be to kill 
+
+them, keep quiet, and keep moving. 
+
+VI. The Normative Question: Should Private Industry Be Allowed to Kill Pirates? 
+
+Somali piracy presents a unique nexus of problems: actors based in a failed state, attacks 
+
+in international waters beyond states’ territorial jurisdictions, lack of leverage in ransom 
+
+negotiations, and very high costs for apprehending pirates at sea and prosecuting them. Although 
+
+                                                 
+122 See Restatement (Second) of Contracts § 178 (1981). 
+
+ 
+
+31 
+
+largely undertaken for economic reasons, and with very low actual losses of life, some crew 
+
+members do die every year, and the potential for escalation and greater casualties remains. 
+
+Because the international community’s legal and military responses to date have had such a 
+
+minor impact, and because the full range of legally possible alternatives offers little hope of 
+
+greater success, actors in the maritime shipping and insurance industries will be increasingly 
+
+attracted to illegal measures. As discussed above, the legal risks presented today by the offensive 
+
+option are high enough to deter it. But should this be the case? Under these circumstances, 
+
+should national and international law allow private actors to wield violence against pirates? This 
+
+section addresses that normative question. 
+
+A.  Should There Be a Piracy Exception to the Fundamental Right to Life? 
+
+Gopalan notes that international law’s failure to stop Somali piracy “has created a 
+
+perverse incentive to kill rather than prosecute,” and argues that a program of targeted killing of 
+
+pirates is justified.123 Gopalan quotes UN Security Council Resolution 1851, which authorizes 
+
+the use of force against pirates under Chapter VII of the UN Charter. This support is misplaced, 
+
+however, because Gopalan ignores the proviso that “any measures undertaken pursuant to the 
+
+authority of this paragraph shall be undertaken consistent with applicable international 
+
+humanitarian and human rights law.”124 As discussed above, the fundamental human right to life 
+
+allows few exceptions, and preemptive self-defense or defense of property—no matter how 
+
+valuable—are not among them. 
+
+Despite the flaws in their legal reasoning, arguments such as Gopalan’s have innate 
+
+appeal and resonate with the public. Comments to piracy news stories frequently decry the 
+
+inefficacy of current approaches and call for killing pirates with no legal process at all. After the 
+
+                                                 
+123 Gopalan, supra note 42. 
+124 S.C. Res. 1851, supra note 65. 
+
+ 
+
+32 
+
+recent killing of a pirate by private security contractors, one blog covering the private military 
+
+industry began its coverage thus: “Excellent. This is yet again the kind of stuff that will give 
+
+today’s pirates a pause [sic] next time they want to attack a boat.”125 
+
+In years past, many offenses were punishable by death, including piracy. Congress 
+
+adopted the death penalty for piracy as early as 1819.126 Justice Story explored the history of the 
+
+international law of piracy, quoting one Italian jurist who wrote, “every nation has a right to 
+
+pursue, and exterminate [pirates], without any declaration of war.”127 At that time, the United 
+
+States’ early experience with the Barbary Corsairs would have been fresh in the Court’s 
+
+experience, and the majority had little trouble upholding a death sentence. Lord Coke wrote, 
+
+“with professed pirates there is no state of peace, they are the enemies of every country, and at 
+
+all times, and therefore are universally subject to the extreme rights of war”—in other words, 
+
+summary execution of pirates was the norm.128 
+
+But should there be a piracy exception to the strong rules and norm against extrajudicial 
+
+killing? Given the strength and clarity of the prohibition against extrajudicial killing—which is 
+
+unequivocally non-derogable for anything beyond self-defense—the obvious answer is no. 
+
+On the other hand, many facts underlying piracy work against this absolute position. 
+
+Because they sail from predictable locations with unusual equipment (e.g., weapons and ship-
+
+boarding gear such as ladders), with reasonable efforts, pirates could be identified with precision 
+
+while they are at sea even before they engage in acts of piracy. Given the absence of innocent 
+
+civilians or property at sea, collateral damage there is especially unlikely, assuming the attacks 
+
+                                                 
+125 Maritime Security: Private Security Repels An Assault, One Pirate Killed, Feral Jundi, Mar. 
+25, 2010, http://feraljundi.com/2010/03/25/maritime-security-private-security-repels-an-assault-
+one-pirate-killed/. 
+126 United States v. Smith, 18 U.S. 153, 154 (1820). 
+127 Id. at 163 (quoting Azuni). 
+128 Whatley, supra note 1, at 549 (citations omitted). 
+
+ 
+
+33 
+
+occur before the pirates take hostages.129 Further, pirates themselves routinely violate the human 
+
+rights of their hostages, notably the right to be free from arbitrary detention and the right to 
+
+life.130 In fact, the very act of hostage-taking is a denial of the hostage’s right to life. Unlike state 
+
+combatants, or even many non-state combatants, pirates fail to give reciprocal recognition to the 
+
+human and humanitarian rights of their hostages. Historically, pirates were regarded as 
+
+“enem[ies] of the human race”131—a categorization akin to a perpetrator of modern crimes 
+
+against humanity. Finally, the culpability of men in a swarm of fast boats approaching merchant 
+
+vessels with assault rifles, rocket-propelled grenades, and ladders is not seriously in question. 
+
+Absent evidentiary problems, it is difficult to foresee a scenario under which fair judicial 
+
+proceedings would result in a not-guilty verdict for someone aboard such a boat.132 
+
+When so many of the circumstances militating for full human-rights enforcement are 
+
+lacking, the arguments for full enforcement of suspected pirates’ human rights lose much of their 
+
+force. However, given the extraordinarily strong language setting out the fundamental human 
+
+right to life in the UDHR, ICCPR, and other legal instruments, a return to summary execution of 
+
+pirates at sea seems out of the question. 
+
+B.  How Much Process are Pirates Due? 
+
+One principal objection to extrajudicial killings is that they constitute a deprivation of life 
+
+and liberty without sufficient process. But how much process is sufficient, and do pirates require 
+
+                                                 
+129 However, pirates might react to targeted killings by embarking already-held hostages as 
+human shields on all their ships. 
+130 See UDHR, supra note 96, at art. 9; ICCPR, supra note 97, arts. 9(1) (right to be free from 
+arbitrary detention) and 6(1) (right to life). Hostage-taking is also an offense under the 
+International Convention Against the Taking of Hostages, Dec. 17, 1979, G.A. Res. 34/146, U.N. 
+Doc. A/34/46, T.I.A.S. No. 11081, 1316 U.N.T.S. 205 [hereinafter “Hostages Convention”]. 
+131 Smith, 18 U.S. at 161. 
+132 This also assumes the participants are adults. Suspected pirates might raise defenses that they 
+are minors. See, e.g., Accused Somali pirate to be tried as adult, MSNBC, Apr. 21, 2009, 
+http://www.msnbc.msn.com/id/30313755. 
+
+ 
+
+34 
+
+or deserve as much process as others? Common Article 3 provides some guidance, requiring that 
+
+states “afford[] all the judicial guarantees which are recognized as indispensable by civilized 
+
+peoples.”133  
+
+However, knowing exactly which “judicial guarantees” are “recognized as indispensable 
+
+by civilized peoples” is far from simple. The Supreme Court addressed this issue in Hamdan v. 
+
+Rumsfeld.134 Justice Stevens looked to customary international law to establish a floor for due 
+
+process to be afforded to prisoners of war, namely that the accused be present when any evidence 
+
+is given against him.135 However, because Justice Kennedy declined to reach the merits of 
+
+whether the military commission at issue satisfied Common Article 3,136 the Court did not reach 
+
+a majority opinion on that question. In dissent, Justice Thomas rejected Justice Stevens’ position 
+
+on Common Article 3, arguing that the commission need not function like a court-martial, a 
+
+premise on which the majority proceeded, and that Common Article 3’s “nebulous standards” 
+
+were “easily” satisfied.137 
+
+C.  The Law of Armed Conflict’s Prohibition on Targeted Killings 
+
+The prohibition on targeted killings in the law of armed conflict is generally credited to 
+
+Francis Lieber and the Code he developed for the Union Army at Lincoln’s request during the 
+
+U.S. Civil War.138 Article 148 of the Lieber Code, which prohibits assassination, reads: 
+
+                                                 
+133 Common Article 3, supra note 113. 
+134 Hamdan v. Rumsfeld, 548 U.S. 557 (2006). 
+135 Id. at 633–35 (Stevens, J., plurality opinion) (finding Guantánamo military commissions 
+violated Common Article 3 for failing to provide adequate “judicial guarantees” of due process 
+under customary international law). 
+136 Id. at 643– 46, 653–54 (Kennedy, J., concurring) (agreeing that court-martial is baseline for 
+due process from which deviation must be justified, but not reaching construction of Common 
+Article 3). 
+137 Id. at 719–24 (Thomas, J., dissenting). 
+138 MICHAEL GROSS, MORAL DILEMMAS OF MODERN WAR 100 (Cambridge U. Press 2010).  
+
+ 
+
+35 
+
+The law of war does not allow proclaiming either an individual 
+
+belonging to the hostile army, or a citizen, or a subject of the 
+
+hostile government, an outlaw, who may be slain without trial by 
+
+any captor, any more than the modern law of peace allows such 
+
+intentional outlawry; on the contrary, it abhors such outrage. The 
+
+sternest retaliation should follow the murder committed in 
+
+consequence of such proclamation, made by whatever authority. 
+
+Civilized nations look with horror upon offers of rewards for the 
+
+assassination of enemies as relapses into barbarism.139 
+
+Underlying Lieber’s prohibition on assassination (or targeted killings in contemporary 
+
+parlance) is the proposition that combatants in armed conflict, unless guilty of atrocities, should 
+
+not be treated as criminals either during or after hostilities. Instead, they should be treated with a 
+
+“presumption of innocence,” meaning that “no soldier faces arrest, trial, and punishment for 
+
+killing enemy soldiers.” This proposition, like the Geneva Conventions’ prohibition against 
+
+giving no quarter, is premised on a desire to avoid a cycle of escalating atrocities.140 
+
+ 
+
+Although pirates are unlikely to agree to a reciprocal formal code of conduct, neither 
+
+Lieber nor Lincoln expected the Confederacy to adopt the Lieber Code. Still, the Code had an 
+
+important signaling function analogous to modern human-rights and humanitarian law norms. 
+
+One reason that pirate attacks and hostage-holding are so infrequently lethal is the pirates’ strong 
+
+incentive to remain within the bounds of these norms so as to avoid being put outside those 
+
+                                                 
+139 Lieber Code, supra note 111, art. 148. 
+140 GROSS, supra note 138, at 102. See also Anthony Rogers, Combatant status, in PERSPECTIVES 
+ON THE ICRC STUDY ON CUSTOMARY INTERNATIONAL HUMANITARIAN LAW, supra note 57, at 
+304 (noting recognition of the “non-penal character of [POW] internment” throughout the 
+development of the customary laws of armed conflict). 
+
+ 
+
+36 
+
+norms themselves. In other words, pirates understand that any escalation of violence cuts both 
+
+ways, and they are enormously outmatched in firepower. A program of targeted killings of 
+
+pirates would undermine this equilibrium and likely lead to more lethal pirate attacks and more 
+
+dead hostages. 
+
+Piracy differs significantly from the situations envisaged by Lieber or the drafters of the 
+
+Geneva Conventions in that it does not rise to the level of armed conflict. Somali pirates are 
+
+civilian criminals, not combatants. Under the laws of war, civilians may not be targeted unless 
+
+they participate directly in hostilities in an armed conflict—and therefore, where, as in the piracy 
+
+context, there is no armed conflict, civilians may not be targeted for killing.141 
+
+D.  Discretionary Prosecution of Maritime Mercenaries 
+
+Because they take hostages, Somali pirates would be subject to the Hostages Convention. 
+
+Article 8 of that treaty states that whenever any offender is “found” in a state, that state is 
+
+“obliged” to prosecute him regardless of where the offense took place.142 A state’s duty under 
+
+UNCLOS is far less clear because it specifies only that “[a]ll States shall cooperate to the fullest 
+
+possible extent in the repression of piracy…”143 At first glance, the SUA Convention appears to 
+
+impose a duty to prosecute suspected offenders. However, a closer reading discloses a serious 
+
+loophole allowing states essentially unfettered discretion. Article 7(1) states that, “Upon being 
+
+satisfied that the circumstances so warrant, any State Party in the territory of which the 
+
+offender…is present shall…take him into custody…for such time as is necessary to enable any 
+
+criminal or extradition proceeding to be instituted.”144 How to determine which “circumstances” 
+
+                                                 
+141 Michael N. Schmitt, The law of targeting, in PERSPECTIVES ON THE ICRC STUDY ON 
+CUSTOMARY INTERNATIONAL HUMANITARIAN LAW, supra note 57, at 141–42. 
+142 Hostages Convention, supra note 130, art. 8. 
+143 UNCLOS, supra note 69, art. 100 (emphasis added) 
+144 SUA Convention, supra note 70, art. 7(1). 
+
+ 
+
+37 
+
+would “warrant” prosecution is not specified, and the text implies that a state’s satisfaction to 
+
+that end may be entirely subjective. Although the track record for prosecution of Somali pirates 
+
+is far from stellar,145 in the case of a PMC attack itself constituting piracy or a SUA offense, such 
+
+a subjective standard could even more easily result in impunity. 
+
+The UN Convention Against Transnational Organized Crime146 (hereinafter “TOC 
+
+Convention”) creates powerful tools for prosecuting transnational crime. Substantively, instead 
+
+of enumerating specific offenses, the TOC Convention operates on any crime with a domestic 
+
+sentence of four years or more, creates conspiracy offenses, and outlaws participation in 
+
+organized-crime groups.147  Procedurally, the TOC Convention facilitates cooperation between 
+
+authorities of different states, including extradition.148 
+
+For example, because piracy is recognized as one of the core international crimes and 
+
+carries heavy punishment worldwide, Somali pirates would clearly qualify as “organized 
+
+criminal groups” committing “serious crime,” and therefore would be subject to the TOC 
+
+Convention.149 Perhaps less intuitively, however, a PMC chartered to fight piracy could just as 
+
+easily find itself ensnared by the TOC Convention. So long as it intended to kill, any modern 
+
+firm would satisfy the TOC Convention’s definition of an “organized criminal group.”150 If the 
+
+PMC is hired to kill pirates, its employees could be charged with murder—which, in all 
+
+likelihood, carries a maximum sentence greater than four years in every state party to the TOC 
+
+Convention. Thus, the many complexities of humanitarian law, human rights, and mercenaries 
+
+                                                 
+145 See supra Part II.B. 
+146 United Nations Convention Against Transnational Organized Crime Nov. 15, 2000, U.N. 
+Doc. A/55/383, T.I.A.S. 13127 [hereinafter “TOC Convention”]. 
+147 Id. arts. 2(b), 3, 5. 
+148 Id. arts. 16, 18–27. 
+149 Id. arts. 2, 3. 
+150 Id. 
+
+ 
+
+38 
+
+are potentially moot; a domestic prosecutor in any involved state could invoke the TOC 
+
+Convention’s procedural advantages and proceed along the familiar lines of a murder case. 
+
+Conclusions 
+
+The world is afflicted with many grave threats and problems, but today, maritime piracy 
+
+is not among them. Over the last several years, the international community has spent hundreds 
+
+of millions of dollars waging a losing battle against small bands of Somali pirates who have 
+
+inflicted substantial economic damage but actually killed only a handful of sailors. Because they 
+
+do not work, states should abandon their current counter-piracy policies and instead direct their 
+
+attention and resources to areas with better prospects for lasting impact—economic and political 
+
+development on land in Somalia, for example.  
+
+Clearly, however, something must be done about the explosion of Somali piracy. Because 
+
+modern piracy is largely an economic crime, and because states have proven ill-suited to stop it 
+
+with any of the political, legal, or military tools thus far deployed, economic actors (i.e., the 
+
+shipping companies) should be given greater leeway to respond effectively. In the Somali piracy 
+
+context, this means using force—at the very least to defend against attacks in progress 
+
+However, because pirates are unlikely to respond to anything short of major violence, the 
+
+next choice is stark: either stop at defensive force—which has so far provided little deterrence—
+
+or grant PMCs authority to strike pirate enterprises preemptively. This boils down to an easily 
+
+stated, but troubling question: should the international community accept to the economic cost of 
+
+piracy (which continues to rise), or should it accept the humanitarian costs of authorizing private 
+
+military force against it? If states choose the latter option, they would be essentially reverting to 
+
+the maritime law of centuries past. To do so today, however, they must create an explicit 
+
+exemption to the substantial body of human-rights and humanitarian law that has developed 
+
+ 
+
+39 
+
+since the world last grappled with large-scale maritime piracy. Although these bodies of law do 
+
+not provide clear or complete coverage of private transnational violence, the trend toward greater 
+
+coverage is unmistakable, and the human right to life is one of international law’s strongest 
+
+positive rights. Without a clear exemption, any authority conferred on PMCs to fight piracy 
+
+would be largely rhetorical because PMCs would rightly fear prosecution under these legal 
+
+regimes, especially given the strong norm against mercenarism.151 Whether to grant a piracy 
+
+exemption to the right to life depends on whether one views piracy as qualitatively different from 
+
+other crimes. Historically, piracy has been treated differently from other crimes,152 but whether 
+
+that remains true today is less clear. That the Security Council has acted repeatedly under 
+
+Chapter VII, and authorized states to go on the offensive,153 suggests that it may. 
+
+                                                 
+151 See supra Part IV.C. 
+152 See Smith, 18 U.S. at 161 (characterizing pirates as “enem[ies] of the human race,”); The 
+Marianna Flora, 24 U.S. 1, 40 (1825) (“Pirates may, without doubt, be lawfully captured on the 
+ocean by the public or private ships of every nation; for they are, in truth, the common enemies 
+of all mankind, and, as such, are liable to the extreme rights of war.”). 
+153 S.C. Res. 1846, supra note 51. 
+
+ 
+
+40 
+
+
