@@ -87,3 +87,5 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+perma_api_key.txt
